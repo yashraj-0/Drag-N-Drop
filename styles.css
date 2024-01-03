@@ -19,7 +19,8 @@ body {
     background-color: whitesmoke; 
 }
 .fill {
-    background-image: url('https://source.unsplash.com/random/150x150');
+    background-image: url('cat.jpg');
+    background-size: 145px 145px;
     height: 145px;
     width: 145px;
     cursor: pointer; 
