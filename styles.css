@@ -19,7 +19,7 @@ body {
     background-color: whitesmoke; 
 }
 .fill {
-    background-image: url('cat.jpg');
+    background-image: url('cat.png');
     background-size: 145px 145px;
     height: 145px;
     width: 145px;
